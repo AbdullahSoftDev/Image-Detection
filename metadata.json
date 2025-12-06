@@ -1,0 +1,5 @@
+{
+  "name": "VeriLens - Image Authenticity Detector",
+  "description": "A forensic tool powered by Gemini to analyze images for signs of AI generation, digital tampering, or modification.",
+  "requestFramePermissions": []
+}
