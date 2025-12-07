@@ -75,7 +75,7 @@ export const analyzeImage = async (file: File, apiKey?: string): Promise<Analysi
     `;
 
     const response = await ai.models.generateContent({
-      model: 'gemini-2.5-pro', // Using Pro model for complex reasoning and visual analysis
+      model: 'gemini-2.5-flash', // Using Pro model for complex reasoning and visual analysis
       contents: {
         parts: [
           imagePart,
