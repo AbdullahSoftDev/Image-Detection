@@ -1,7 +1,7 @@
 
 <div align="center">
   <img
-    src="./assets/verilens-banner.png"
+    src="https://github.com/AbdullahSoftDev/Pictures/blob/615cfc6f6fc2fe50b7fcbdcd2f7edf3edf989adc/Verlins%20Image%20Detection%20Banner.png"
     alt="VeriLens — AI Image Authenticity Detector"
     width="100%"
   />
