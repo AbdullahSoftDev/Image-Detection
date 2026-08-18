@@ -1,3 +1,17 @@
+
+<div align="center">
+  <img
+    src="./assets/verilens-banner.png"
+    alt="VeriLens — AI Image Authenticity Detector"
+    width="100%"
+  />
+</div>
+
+<br />
+
+<div align="center">
+
+
 <div align="center">
 
 # 🔍 VeriLens — AI Image Authenticity Detector
